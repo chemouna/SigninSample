@@ -57,7 +57,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener, OnConnectionFail
             val result = Auth.GoogleSignInApi.getSignInResultFromIntent(data)
             if (result.isSuccess) {
                 val account = result.signInAccount
-                Toast.makeText(this, account.email, Toast.LENGTH_LONG).show()
+                Toast.makeText(this, account?.email, Toast.LENGTH_LONG).show()
                 // you can send account.idToken to the backend server
             }
             else {
