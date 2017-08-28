@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670510361686",
+    "project_id": "signin-d948a"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670510361686:android:46fa945bd84985b2",
+        "android_client_info": {
+          "package_name": "com.mounacheikhna.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670510361686-ngel4jqgdjjo02rabm0536gtegj8kep2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mounacheikhna.signin",
+            "certificate_hash": "10cee69d67778a51a520d05ab5275730215b263e"
+          }
+        },
+        {
+          "client_id": "670510361686-7ii13vg8jlqhp6n0dld8c71cge7hkr72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphA0afMw7-7_Z40foqQAU1TsUjPjsKTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
